@@ -1,0 +1,18 @@
+# Gmail API
+google-auth==2.35.0
+google-auth-oauthlib==1.2.1
+google-auth-httplib2==0.2.0
+google-api-python-client==2.149.0
+
+# AI (New API / OpenAI compatible)
+openai==1.54.4
+
+# 飞书 & HTTP
+requests==2.32.3
+
+# 配置与解析
+python-dotenv==1.0.1
+beautifulsoup4==4.12.3
+
+# 可选：学校 M365 兜底（Microsoft Graph）。不用可忽略
+msal==1.31.0
